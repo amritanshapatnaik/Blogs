@@ -1,2 +1,3 @@
 # Blogs
-Hello madam ji ye mera blog hai!
+Add .env file and firebase-admin-sdk.json file.
+run npm start
